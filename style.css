@@ -94,7 +94,10 @@ nav ul li a:hover::after{
 
 }
 .subtitle{
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
     color: #fff;
+}
+.highLight{
+    color: #ff004f;
 }
